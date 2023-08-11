@@ -1,0 +1,30 @@
+* {
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    text-align: left;
+}
+
+.title{
+    font-size: 100px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.heading{
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+
+.link{
+    font-size: 25px;
+    margin: 100px;
+}
